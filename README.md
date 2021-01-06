@@ -1,1 +1,1 @@
-# spring-boot-console-application
+https://simplesolution.dev/
